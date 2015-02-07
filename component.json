@@ -2,7 +2,7 @@
   "name": "utf8-decode",
   "repo": "ForbesLindesay/utf8-decode",
   "description": "Decode JavaScript strings in UTF8",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [],
   "dependencies": {},
   "development": {},
